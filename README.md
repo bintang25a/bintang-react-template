@@ -16,7 +16,12 @@ Currently, two official plugins are available:
 - postcss-nesting
 - autoprefixer
 
-# Add to local
+# Add to project local
+- open your terminal and run commands below
 - npx degit bintang25a/bintang-react-template your-project-name
+- cd your-project-name
+- npm install
 
 I Hope this repository can useful for other react developer like me guys ;D
+- instagram: @bintang_alfizar_ link: (https://instagram.com/bintang_alfizar_), follow guys
+- linkedin: Bintang Al Fizar link: (https://linkedin.com/in/bintang25a), follow guys
